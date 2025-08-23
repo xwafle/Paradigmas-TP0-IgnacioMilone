@@ -50,6 +50,24 @@
 6. ¿Es extensible? ¿Hay subconjuntos de ese lenguaje?
 7. El código producido, ¿es transportable?
 
+### Respuestas: 
+
+ 1: si estan bien definidas, su sintaxis es estricta pero simple ( ;, {}, declaracion de clases public class Nombre {}) y su semantica esta bien especificada. Tambien existe documentacion oficial sobre java en la pagina de     Oracle con toda la informacion que se necesite
+ 
+ 2: Si es posible, ya que en java los errores se detectan a la hora de compilarlo
+
+ 3: Es un lenguaje confiable, ya que la memoria se gestiona automaticamente (punteros , liberacion de memoria) y posee un buen manejo a la hora de prevenir errores con el try-catch
+
+ 4: en este caso java no es del todo ortogonal, hay un par de casos especiales que rompen las reglas de java por ejemplo los tipos de datos int , double, char no son considerados objetos esto rompe la regla de java donde       se dice que todo es un objeto
+ 
+ 5: Tiene una alta consistencia por que esta todo dentro de clases, pero no es tan uniforme por los casos especiales, como en el punto anterior los datos int, double, char al no ser considerados objetos son un caso             especial y rompen un poco la uniformidad de java
+
+ 6: si es extensible pero sin modificar directamente la sintaxis o semantica del codigo, y existen subconjuntos de java como por ejemplo, Java ME que esta diseñado para dispositivos moviles o sistemas mas pequeños
+
+ 7: El transportable gracias al JVM, codigos hechos en Windows pueden usarse en Linux o MacOS
+
+
+
 
 
       
