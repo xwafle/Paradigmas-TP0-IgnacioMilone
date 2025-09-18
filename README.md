@@ -1,5 +1,7 @@
-# Paradigmas-TP0-IgnacioMilone
-TP0 De la materia paradigmas de programacion hecho con markdown
+# Paradigmas-TP0-IgnacioMilone-ExequielAlaniz
+TP0 De la materia paradigmas de programacion hecho por los alumnos de Ingenieria En Sistemas
+- Exequiel Alaniz
+- Ignacio Milone
 
 # Trabajo practico 0 
 ### Analisis sobre lenguajes de programacion en base a la logica paradigmatica 
